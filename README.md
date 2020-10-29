@@ -22,7 +22,7 @@ The condition to split the data into bad and good records was
 -------------|----------------|-----------|--------|--------|---------|-----------|
   2738818    |  2014-01-01    |2009 Chevrolet Traverse|118|01|122.55|725.89
 
-1. 2738818;2014-01-01;2009 Chevrolet Traverse;118;01;122.55;725.89 - error due to 18;01; as for me here it should be 18.01
+1. 2738818;2014-01-01;2009 Chevrolet Traverse;118;01;122.55;725.89 - error due to 118;01; as for me here it should be 118.01
 
 ## The next step was to find error using SQL
 ### This select help us to find and catch second error
